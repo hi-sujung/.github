@@ -17,6 +17,7 @@
 | [hisujung-spring-mvc](https://github.com/hi-sujung/hisujung-spring-mvc)       |       |
 | [hisujung-react-native](https://github.com/hi-sujung/hisujung-react-native)   |       |
 | [k8s-manifest](https://github.com/hi-sujung/k8s-manifest)                     |       |
+| [k8s-test](https://github.com/hi-sujung/k8s-test)                             |       |
 | [git-meta](https://github.com/hi-sujung/git-meta)                             |       |
 | [msa-front-app](https://github.com/hi-sujung/msa-front-app)                   |       |
 | [msa-front-web](https://github.com/hi-sujung/msa-front-web)                   |       |
