@@ -1,6 +1,6 @@
 # 👋 Hi, We are hi-sujung!
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hi-sujung/&title=hits)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhi-sujung%2F.github&count_bg=%23BA6BC4&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Members
 |  |  |  |  | <img src="https://github.com/hi-sujung/.github/assets/100345983/a01f6586-c6a8-467e-93fa-45db48c079d0" width="150"/> |  |
