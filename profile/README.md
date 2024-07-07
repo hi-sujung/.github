@@ -1,4 +1,4 @@
-## 👋 Hi We are hi-sujung
+# 👋 Hi We are hi-sujung
 
 ### Members
 |  |  |  |  | <img src="https://github.com/hi-sujung/.github/assets/100345983/a01f6586-c6a8-467e-93fa-45db48c079d0" width="150"/> |  |
