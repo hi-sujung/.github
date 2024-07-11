@@ -22,7 +22,7 @@
 | [git-meta](https://github.com/hi-sujung/git-meta)                             |       |
 | [msa-front-app](https://github.com/hi-sujung/msa-front-app)                   |       |
 | [msa-front-web](https://github.com/hi-sujung/msa-front-web)                   |       |
-| [msa-member](https://github.com/hi-sujung/msa-member)                         |       |
+| [msa-member](https://github.com/hi-sujung/msa-member)                         | 회원 마이크로서비스 |
 | [msa-notice](https://github.com/hi-sujung/msa-notice)                         |       |
 | [msa-portfolio](https://github.com/hi-sujung/msa-portfolio)                   |       |
 | [msa-auth-jwt](https://github.com/hi-sujung/msa-auth-jwt)                     |       |
