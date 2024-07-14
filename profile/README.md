@@ -20,8 +20,8 @@
 | [k8s-manifest](https://github.com/hi-sujung/k8s-manifest)                     |              |
 | [load-test](https://github.com/hi-sujung/load-test)                           |              |
 | [git-meta](https://github.com/hi-sujung/git-meta)                             |              |
-| [msa-front-app](https://github.com/hi-sujung/msa-front-app)                   | frontend 마이크로서비스(with React-Native) |
-| [msa-front-web](https://github.com/hi-sujung/msa-front-web)                   | frontend 마이크로서비스(with React) |
+| [msa-front-app](https://github.com/hi-sujung/msa-front-app)                   | frontend 마이크로서비스 with React-Native |
+| [msa-front-web](https://github.com/hi-sujung/msa-front-web)                   | frontend 마이크로서비스 with React |
 | [msa-member](https://github.com/hi-sujung/msa-member)                         | 회원 마이크로서비스 |
 | [msa-notice](https://github.com/hi-sujung/msa-notice)                         | 공지사항 마이크로서비스 |
 | [msa-portfolio](https://github.com/hi-sujung/msa-portfolio)                   | 포트폴리오 마이크로서비스 |
