@@ -18,7 +18,7 @@
 | [hisujung-react-native](https://github.com/hi-sujung/hisujung-react-native)   |              |
 | [hisujung-ci](https://github.com/hi-sujung/hisujung-ci)                       |              |
 | [k8s-manifest](https://github.com/hi-sujung/k8s-manifest)                     |              |
-| [load-test](https://github.com/hi-sujung/load-test)                           |              |
+| [load-test](https://github.com/hi-sujung/load-test)                           | K8s 리소스 최적화 (Scale out / Scale in)            |
 | [git-meta](https://github.com/hi-sujung/git-meta)                             |              |
 | [msa-front-app](https://github.com/hi-sujung/msa-front-app)                   | frontend 마이크로서비스 with React-Native |
 | [msa-front-web](https://github.com/hi-sujung/msa-front-web)                   | frontend 마이크로서비스 with React |
@@ -29,7 +29,7 @@
 | [msa-recommend](https://github.com/hi-sujung/msa-recommend)                   |              |
 | [msa-crawling-external](https://github.com/hi-sujung/msa-crawling-external)   |              |
 | [msa-crawling-univ](https://github.com/hi-sujung/msa-crawling-univ)           |              |
-| [msa-rabbitmq](https://github.com/hi-sujung/msa-rabbitmq)                     |              |
+| [msa-rabbitmq](https://github.com/hi-sujung/msa-rabbitmq)                     | crawling MS/notice MS 간 메시지 브로커 MS |
 
 
 
