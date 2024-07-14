@@ -14,7 +14,7 @@
 |-------------------------------------------------------------------------------|--------------|
 | [hisujung-msa-k8s](https://github.com/hi-sujung/hisujung-msa-k8s)             | 하이수정 메인 repository |
 | [hisujung-web](https://github.com/hi-sujung/hisujung-web)                     | 하이수정 웹 배포용 repository |
-| [hisujung-spring-mvc](https://github.com/hi-sujung/hisujung-spring-mvc)       | 하이수정 MSA화 이전 |
+| [hisujung-spring-mvc](https://github.com/hi-sujung/hisujung-spring-mvc)       | 하이수정 MSA화 이전 repository |
 | [hisujung-react-native](https://github.com/hi-sujung/hisujung-react-native)   |              |
 | [hisujung-ci](https://github.com/hi-sujung/hisujung-ci)                       |              |
 | [k8s-manifest](https://github.com/hi-sujung/k8s-manifest)                     |              |
