@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhi-sujung%2F.github&count_bg=%23BA6BC4&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Members
-|     <img src="https://github.com/user-attachments/assets/23c4a19a-5c4f-4266-9636-f8cdb1dd721e" width="100"/>     | <img src="https://github.com/rlawjd10/crawling/blob/main/github_imh.jpg" width="100"/> |  |  | <img src="https://github.com/hi-sujung/.github/assets/100345983/a01f6586-c6a8-467e-93fa-45db48c079d0" width="100"/> |  |
+|     <img src="https://github.com/user-attachments/assets/23c4a19a-5c4f-4266-9636-f8cdb1dd721e" width="100"/>     | <img src="https://github.com/user-attachments/assets/87a06cdd-80c3-414c-8e5e-860747fcbd5b" width="100"/> |  |  | <img src="https://github.com/hi-sujung/.github/assets/100345983/a01f6586-c6a8-467e-93fa-45db48c079d0" width="100"/> |  |
 |:----------------------------------------:|:---:|:---:|:---:|:---:|:---:|
 |                   강민지                    | 김정은 | 신혜지 | 이유진 | 임수현(Lead) | 조은재 |
 | [@angierkd](https://github.com/angierkd) | [@rlawjd10](https://github.com/rlawjd10) | [@hyezis](https://github.com/hyezis) | [@Leeyoujin00](https://github.com/Leeyoujin00) | [@s-h-im](https://github.com/s-h-im) | [@EunjaeJo](https://github.com/EunjaeJo) |
