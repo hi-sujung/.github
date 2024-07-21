@@ -6,7 +6,7 @@
 | <img src="https://github.com/user-attachments/assets/23c4a19a-5c4f-4266-9636-f8cdb1dd721e" width="120"/> | <img src="https://github.com/user-attachments/assets/00465f57-b84d-446a-8377-132b98938d5d" width="120"/> |  | <img src="https://github.com/user-attachments/assets/7114a84d-4337-43fb-8b16-c1a6d998dc18" width="120"/> |  <img src="https://github.com/user-attachments/assets/1bdf080d-6e4b-4649-9f8e-a44c2607e759" width="120"/> | <img src="https://github.com/user-attachments/assets/52b11e17-49b1-4b5f-a886-82fd51181433" width="120"/> |
 |:----------------------------------------:|:---:|:---:|:---:|:---:|:---:|
 |  강민지 | 김정은 | 신혜지 | 이유진 | 임수현(Lead) | 조은재 |
-| [@angierkd](https://github.com/angierkd) | [@rlawjd10](https://github.com/rlawjd10) | [@hyezis](https://github.com/hyezis) | [@Leeyoujin00](https://github.com/Leeyoujin00) | [@s-h-im](https://github.com/s-h-im) | [@EunjaeJo](https://github.com/EunjaeJo) |
+| [@angierkd](https://github.com/angierkd) | [@rlawjd10](https://github.com/rlawjd10) | [@hyezis](https://github.com/hyezis) | [@Leeyoujin00](https://github.com/Leeyoujin00) | [@suhyenim](https://github.com/suhyenim) | [@EunjaeJo](https://github.com/EunjaeJo) |
 
 
 ### Repositories
