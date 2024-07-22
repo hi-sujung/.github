@@ -22,6 +22,7 @@
 | [msa-front-app](https://github.com/hi-sujung/msa-front-app)                   | frontend 마이크로서비스 with React-Native |
 | [msa-front-web](https://github.com/hi-sujung/msa-front-web)                   | frontend 마이크로서비스 with React |
 | [msa-member](https://github.com/hi-sujung/msa-member)                         | 회원 마이크로서비스 |
+| [msa-mysql](https://github.com/hi-sujung/msa-mysql)                           |                |
 | [msa-notice](https://github.com/hi-sujung/msa-notice)                         | 공지사항 마이크로서비스 |
 | [msa-portfolio](https://github.com/hi-sujung/msa-portfolio)                   | 포트폴리오 마이크로서비스 |
 | [msa-auth-jwt](https://github.com/hi-sujung/msa-auth-jwt)                     | JWT 인증 마이크로서비스 |
