@@ -30,6 +30,7 @@
 | [msa-crawling-external](https://github.com/hi-sujung/msa-crawling-external)   |              |
 | [msa-crawling-univ](https://github.com/hi-sujung/msa-crawling-univ)           |              |
 | [msa-rabbitmq](https://github.com/hi-sujung/msa-rabbitmq)                     | 크롤링과 공지사항 마이크로서비스 간 메시지 브로커 |
+| [msa-redis](https://github.com/hi-sujung/msa-redis)                           |              |
 
 
 
