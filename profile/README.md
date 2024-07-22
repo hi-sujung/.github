@@ -12,10 +12,10 @@
 ### Repositories
 | Name                                                                          | About        |
 |-------------------------------------------------------------------------------|--------------|
-| [hisujung-msa-k8s](https://github.com/hi-sujung/hisujung-msa-k8s)             | 하이수정 메인 repository |
-| [hisujung-web](https://github.com/hi-sujung/hisujung-web)                     | 하이수정 웹 배포용 repository |
-| [hisujung-spring-mvc](https://github.com/hi-sujung/hisujung-spring-mvc)       | 하이수정 MSA화 이전 repository |
-| [hisujung-react-native](https://github.com/hi-sujung/hisujung-react-native)   |              |
+| [hisujung-msa-k8s](https://github.com/hi-sujung/hisujung-msa-k8s)             | 하이수정 메인 레포 |
+| [hisujung-web](https://github.com/hi-sujung/hisujung-web)                     | 하이수정 웹 배포용 레포 |
+| [hisujung-backend-old](https://github.com/hi-sujung/hisujung-backend-old)     | 이전 하이수정 백엔드 레포 |
+| [hisujung-frontend-old](https://github.com/hi-sujung/hisujung-frontend-old)   | 이전 하이수정 프론트엔드 레포 |
 | [k8s-manifest](https://github.com/hi-sujung/k8s-manifest)                     |              |
 | [git-meta](https://github.com/hi-sujung/git-meta)                             | 마이크로서비스 관리용 메타 repository |
 | [load-test](https://github.com/hi-sujung/load-test)                           | k8s 리소스 최적화 및 hpa |
