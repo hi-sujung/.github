@@ -16,7 +16,6 @@
 | [hisujung-web](https://github.com/hi-sujung/hisujung-web)                     | 하이수정 웹 배포용 repository |
 | [hisujung-spring-mvc](https://github.com/hi-sujung/hisujung-spring-mvc)       | 하이수정 MSA화 이전 repository |
 | [hisujung-react-native](https://github.com/hi-sujung/hisujung-react-native)   |              |
-| [hisujung-ci](https://github.com/hi-sujung/hisujung-ci)                       |              |
 | [k8s-manifest](https://github.com/hi-sujung/k8s-manifest)                     |              |
 | [git-meta](https://github.com/hi-sujung/git-meta)                             | 마이크로서비스 관리용 메타 repository |
 | [load-test](https://github.com/hi-sujung/load-test)                           | k8s 리소스 최적화 및 hpa |
