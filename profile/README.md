@@ -26,7 +26,7 @@
 | [msa-auth-jwt](https://github.com/hi-sujung/msa-auth-jwt)                     | JWT 인증 마이크로서비스 |
 | [msa-recommend](https://github.com/hi-sujung/msa-recommend)                   | 추천 시스템 마이크로서비스 |
 | [msa-crawling](https://github.com/hi-sujung/msa-crawling)                     | 크롤링 마이크로서비스 |
-| [msa-rabbitmq](https://github.com/hi-sujung/msa-rabbitmq)                     | 크롤링과 공지사항 마이크로서비스 간 메시지 브로커 |
+| [msa-rabbitmq](https://github.com/hi-sujung/msa-rabbitmq)                     | 크롤링 MS과 공지사항 MS 간 메시지 브로커 |
 
 
 
