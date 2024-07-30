@@ -13,7 +13,6 @@
 | Name                                                                          | About        |
 |-------------------------------------------------------------------------------|--------------|
 | [hisujung-msa-k8s](https://github.com/hi-sujung/hisujung-msa-k8s)             | 하이수정 메인 레포 |
-| [hisujung-web](https://github.com/hi-sujung/hisujung-web)                     | 하이수정 웹 배포용 레포 |
 | [hisujung-backend-old](https://github.com/hi-sujung/hisujung-backend-old)     | 이전 하이수정 백엔드 레포 |
 | [hisujung-frontend-old](https://github.com/hi-sujung/hisujung-frontend-old)   | 이전 하이수정 프론트엔드 레포 |
 | [k8s-manifest](https://github.com/hi-sujung/k8s-manifest)                     | 마이크로서비스들 관리 |
@@ -22,15 +21,12 @@
 | [msa-front-app](https://github.com/hi-sujung/msa-front-app)                   | frontend 마이크로서비스 with React-Native |
 | [msa-front-web](https://github.com/hi-sujung/msa-front-web)                   | frontend 마이크로서비스 with React |
 | [msa-member](https://github.com/hi-sujung/msa-member)                         | 회원 마이크로서비스 |
-| [msa-mysql](https://github.com/hi-sujung/msa-mysql)                           | MySQL 서버 |
 | [msa-notice](https://github.com/hi-sujung/msa-notice)                         | 공지사항 마이크로서비스 |
 | [msa-portfolio](https://github.com/hi-sujung/msa-portfolio)                   | 포트폴리오 마이크로서비스 |
 | [msa-auth-jwt](https://github.com/hi-sujung/msa-auth-jwt)                     | JWT 인증 마이크로서비스 |
 | [msa-recommend](https://github.com/hi-sujung/msa-recommend)                   | 추천 시스템 마이크로서비스 |
-| [msa-crawling-external](https://github.com/hi-sujung/msa-crawling-external)   | 대외활동 정보 크롤링 마이크로서비스 |
-| [msa-crawling-univ](https://github.com/hi-sujung/msa-crawling-univ)           | 교재활동 정보 크롤링 마이크로서비스 |
+| [msa-crawling](https://github.com/hi-sujung/msa-crawling)                     | 크롤링 마이크로서비스 |
 | [msa-rabbitmq](https://github.com/hi-sujung/msa-rabbitmq)                     | 크롤링과 공지사항 마이크로서비스 간 메시지 브로커 |
-| [msa-redis](https://github.com/hi-sujung/msa-redis)                           | Redis 서버 |
 
 
 
